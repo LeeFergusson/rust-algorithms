@@ -1,2 +1,3 @@
-# Rust Workspace Template
-A simple rust workspace template.
+# Rust Algorithms
+
+A collection of algorithms implemented in Rust.
